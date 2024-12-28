@@ -28,4 +28,4 @@
 
 [TerraStrap](https://github.com/dozyio/terrastrap) - Bootstrap a S3 and DynamoDB backend for Terraform
 
-[Terraform Bash Workspace Prompt]([https://github.com/dozyio/terraform-bash-workspace-prompt) - Terraform Bash Prompt
+[Terraform Bash Workspace Prompt](https://github.com/dozyio/terraform-bash-workspace-prompt) - Terraform Bash Prompt
