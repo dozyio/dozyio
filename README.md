@@ -20,11 +20,11 @@
 
 [gossipsub-simulator](https://github.com/dozyio/gossipsub-simulator) - Playground for gossipsub
 
-### Misc ipfs stuff
+### Misc
 
 [Peer ID Generator](https://github.com/dozyio/peer-id-generator) - Bulk peer ID generator
 
-[CID getter cli](https://github.com/dozyio/cid-getter-cli)
+[CID getter cli](https://github.com/dozyio/cid-getter-cli) - A minimal Go CID downloader
 
 ## Misc internet stuff
 
