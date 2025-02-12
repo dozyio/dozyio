@@ -20,11 +20,15 @@
 
 [gossipsub-simulator](https://github.com/dozyio/gossipsub-simulator) - Playground for gossipsub
 
-### Misc
+### Misc ipfs stuff
 
 [Peer ID Generator](https://github.com/dozyio/peer-id-generator) - Bulk peer ID generator
 
 [CID getter cli](https://github.com/dozyio/cid-getter-cli)
+
+## Misc internet stuff
+
+[Internet Location Database](https://github.com/dozyio/inet-location-db) - IP & ASN geo location database - Updated daily
 
 ## Terraform
 
