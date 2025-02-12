@@ -1,4 +1,4 @@
-## libp2p / IPFS stuff
+## IPFS / libp2p stuff
 
 ### Blockstores
 
@@ -23,6 +23,8 @@
 ### Misc
 
 [Peer ID Generator](https://github.com/dozyio/peer-id-generator) - Bulk peer ID generator
+
+[CID getter cli](https://github.com/dozyio/cid-getter-cli)
 
 ## Terraform
 
