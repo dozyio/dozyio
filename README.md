@@ -1,5 +1,10 @@
 ## IPFS / libp2p stuff
 
+### js-libp2p middleware
+[js-libp2p-middleware-registrar](https://github.com/dozyio/js-libp2p-middleware-registrar) - A libp2p registrar wrapper for middleware
+
+[js-libp2p-middleware-evm](https://github.com/dozyio/js-libp2p-middleware-evm) - A libp2p middleware for authentication using EVM blockchains
+
 ### Blockstores
 
 [js-ds-crdt](https://github.com/dozyio/js-ds-crdt) - A JS CRDT blockstore for [Helia](https://github.com/ipfs/helia), compatible with [https://github.com/ipfs/go-ds-crdt](https://github.com/ipfs/go-ds-crdt)
@@ -25,6 +30,11 @@
 [Peer ID Generator](https://github.com/dozyio/peer-id-generator) - Bulk peer ID generator
 
 [CID getter cli](https://github.com/dozyio/cid-getter-cli) - A minimal Go CID downloader
+
+## Ethereum / EVM
+
+[EVM Rule Engine](https://github.com/dozyio/evm-rule-engine) - A JS EVM rule engine for validating addresses against
+
 
 ## Misc internet stuff
 
